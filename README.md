@@ -41,3 +41,9 @@ Installer Netz-Xray Multi Port 443 & 80
 # Report Bug
 - Telegram : https://t.me/adisubagja
 - Telegram Group : https://t.me/+qmkQdAxx6_MxZjll
+
+# Donasi / Support
+- Qris
+![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
+- Dana/Ovo/Gopay
+  - 082113695382
