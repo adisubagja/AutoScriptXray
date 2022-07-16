@@ -1,4 +1,4 @@
-name: Auto Approve Andrra
+name: Auto approve
 
 on:
   pull_request
@@ -10,6 +10,6 @@ jobs:
       pull-requests: write
     steps:
     - uses: hmarr/auto-approve-action@v2
-      if: github.username == 'andrraa'
+      if: github.actor == 'Andra Ramadan Pratama'
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
