@@ -39,6 +39,5 @@ Installer Netz-Xray Multi Port 443 & 80
 6. Enjoy
 
 # Report Bug
-
-Telegram : https://t.me/adisubagja
-Telegram Group : https://t.me/+qmkQdAxx6_MxZjll
+- Telegram : https://t.me/adisubagja
+- Telegram Group : https://t.me/+qmkQdAxx6_MxZjll
