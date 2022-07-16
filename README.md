@@ -21,7 +21,7 @@ Installer Netz-Xray Multi Port 443 & 80
 # How to Register Installation
 1. Must have github account
 2. Fork & Stars repo
-3. Edit on our repo add 1 ip addres/acc github
+3. Edit on our repo add 1 ip addres/acc github (**FETCH MERGE BEFORE EDIT**)
 4. Then make Pull-Request
 5. Will Approved (If Im Not Busy From RL)
 
@@ -37,6 +37,9 @@ Installer Netz-Xray Multi Port 443 & 80
 `apt update && apt upgrade && wget -q https://raw.githubusercontent.com/adisubagja/AutoScriptXray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh`
 5. Put Domain & Enter
 6. Enjoy
+
+# Command
+- Type `menu` for detail
 
 # Report Bug
 - Telegram : https://t.me/adisubagja
