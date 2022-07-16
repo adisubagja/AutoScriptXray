@@ -18,6 +18,13 @@ Installer Netz-Xray Multi Port 443 & 80
 - TROJAN WS TLS 443
 - TROJAN GRPC 443
 
+# How to Register Installation
+1. Must have github account
+2. Fork & Stars repo
+3. Edit on our repo add 1 ip addres/acc github
+4. Then make Pull-Request
+5. Will Approved (If Im Not Busy From RL)
+
 # Guide Install
 1. Fresh VPS Created (Only Support KVM)
 2. Have Domain & Must be pointing DNS
@@ -34,3 +41,4 @@ Installer Netz-Xray Multi Port 443 & 80
 # Report Bug
 
 Telegram : https://t.me/adisubagja
+Telegram Group : https://t.me/+qmkQdAxx6_MxZjll
