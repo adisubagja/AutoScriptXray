@@ -12,4 +12,4 @@ jobs:
     - uses: hmarr/auto-approve-action@v2
       if: github.actor == 'Andra Ramadan Pratama'
       with:
-        github-token: ${{ secrets.ADI-TOKEN }}
+        github-token: ${{ secrets.GITHUB_TOKEN }}
