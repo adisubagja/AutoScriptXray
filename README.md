@@ -34,9 +34,7 @@ Installer Netz-Xray Multi Port 443 & 80
    - Please no using Wildcard (THIS MAKE GRPC NOT WORKING ON MY SCRIPT !!!)
 3. Login VPS Using ROOT User
 4. Just Copy
-===========================================
 `apt update && apt upgrade && wget -q https://raw.githubusercontent.com/adisubagja/AutoScriptXray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh`
-===========================================
 5. Put Domain & Enter
 6. Enjoy
 
