@@ -28,7 +28,7 @@ Installer Netz-Xray Multi Port 443 & 80
 # Guide Install
 1. Fresh VPS Created (Only Support KVM)
 2. Have Domain & Must be pointing DNS
-   - Please setup cloudflare using Flexible on TAB TLS/SSL
+   - Please setup cloudflare using FULL on TAB TLS/SSL
    - Always HTTPS Must be Off
    - Setup Tab NETWORK Enable WebSocket & GRPC
    - Please no using Wildcard (THIS MAKE GRPC NOT WORKING ON MY SCRIPT !!!)
