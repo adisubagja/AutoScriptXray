@@ -43,6 +43,10 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 # Command
 - Type `menu` for detail
 
+# QnA
+- Question : Why account not connected?
+- Answer : Please check again, try check port open & create acc processing don't close using CTRL+C this make service not reload ! you must restart service all for back normally.
+
 # Report Bug
 - Telegram : https://t.me/adisubagja
 - Telegram Group : https://t.me/+qmkQdAxx6_MxZjll
