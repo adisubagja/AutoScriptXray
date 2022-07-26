@@ -35,7 +35,7 @@ Installer Netz-Xray Multi Port 443 & 80
 3. Login VPS Using ROOT User
 4. Just Copy
 ```
-sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && wget -q https://raw.githubusercontent.com/adisubagja/AutoScriptXray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install wget && apt install screen && wget -q https://raw.githubusercontent.com/adisubagja/AutoScriptXray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh
 ```
 5. Put Domain & Enter
 6. Enjoy
@@ -46,6 +46,9 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 # QnA
 - Question : Why account not connected?
 - Answer : Please check again, try check port open & create acc processing don't close using CTRL+C this make service not reload ! you must restart service all for back normally.
+- Question : Gapunya github bang?
+- Answer : PM aja Telegramku !
+
 
 # Report Bug
 - Telegram : https://t.me/adisubagja
