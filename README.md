@@ -37,6 +37,10 @@ Installer Netz-Xray Multi Port 443 & 80
 ```
 sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install wget && apt install screen && wget -q https://raw.githubusercontent.com/adisubagja/AutoScriptXray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh
 ```
+**IF FAILED TRY USING ALTERNATE**
+```
+sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.disable_ipv6=1 && apt update && apt upgrade && apt install wget && apt install screen && wget -q https://cdn.statically.io/gh/adisubagja/autoscriptxray/master/adi.sh && chmod +x adi.sh && screen -S netzinstall ./adi.sh
+```
 5. Put Domain & Enter
 6. Enjoy
 
