@@ -1,5 +1,11 @@
 # Patch List
 
+# 17-08-2022
+- Add Shadowsocks AEAD (chacha20-ietf-poly1305)
+- Removed unused code
+- Updates Menu
+- Core changed to Prarelease (1.5.9)
+- Traffic Menu (Knownbugs no have idea for implements this)
 # 11-08-2022
 - gRPC header set
 # 04-08-2022
