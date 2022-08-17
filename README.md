@@ -1,7 +1,7 @@
 # NETZ-XRAY
 Installasi Netz-Xray Multi Port 443 & 80
 
-# OS Supported & Requirements
+# OS Didukung & Spek Minimal
 - Debian 9
 - Debian 10 (**Rekomendasi**)
 - Ubuntu 18
@@ -9,7 +9,7 @@ Installasi Netz-Xray Multi Port 443 & 80
 - RAM Minimal 1GB (Max Akun 8-12)
 - CPU Minimal 1 (2 Lebih bagus/Lebih cepet installnya)
 
-# Feature
+# Fitur
 - VMESS WS TLS 443
 - VMESS WS NON TLS 80
 - VMESS GRPC 443
@@ -17,6 +17,8 @@ Installasi Netz-Xray Multi Port 443 & 80
 - VLESS GRPC 443
 - TROJAN WS TLS 443
 - TROJAN GRPC 443
+- SHADOWSOCKS WS 443
+- SHADOWSOCKS GRPC 443
 
 # Cara Daftarin IPnya
 1. Harus punya akun github

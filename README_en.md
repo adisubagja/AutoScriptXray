@@ -17,6 +17,8 @@ Installer Netz-Xray Multi Port 443 & 80
 - VLESS GRPC 443
 - TROJAN WS TLS 443
 - TROJAN GRPC 443
+- SHADOWSOCKS WS 443
+- SHADOWSOCKS GRPC 443
 
 # How to Register Installation
 1. Must have github account
