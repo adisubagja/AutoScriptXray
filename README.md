@@ -74,3 +74,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
 - Dana/Ovo/Gopay
   - 082113695382
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/adisubagja/AutoScriptXray.svg)](https://starchart.cc/adisubagja/AutoScriptXray)
