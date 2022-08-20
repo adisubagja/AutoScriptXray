@@ -17,6 +17,8 @@ Installer Netz-Xray Multi Port 443 & 80
 - VLESS GRPC 443
 - TROJAN WS TLS 443
 - TROJAN GRPC 443
+- SHADOWSOCKS WS 443
+- SHADOWSOCKS GRPC 443
 
 # How to Register Installation
 1. Must have github account
@@ -66,3 +68,8 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 ![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
 - Dana/Ovo/Gopay
   - 082113695382
+
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/adisubagja/AutoScriptXray.svg)](https://starchart.cc/adisubagja/AutoScriptXray)
