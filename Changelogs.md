@@ -1,5 +1,9 @@
 # Patch List
 
+# 15-09-2022
+- Bring Back Routing Cloudflare ( Trojan WS Only)
+- Fix issue Ipv6 . Force Ipv4 Avoid Miss Database IP
+- Core updated to (1.5.10)
 # 06-09-2022
 - Add Backup & Restore (Powered by Github)
 - Custom Kernel (Powered By XanMod Kernel)
