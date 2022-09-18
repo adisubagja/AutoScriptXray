@@ -1,5 +1,9 @@
 # Patch List
 
+# 19-09-2022
+- Core Updated to (1.6.0)
+- All Depedencies Updated
+- Fix sumting wong
 # 15-09-2022
 - Bring Back Routing Cloudflare ( Trojan WS Only)
 - Fix issue Ipv6 . Force Ipv4 Avoid Miss Database IP
