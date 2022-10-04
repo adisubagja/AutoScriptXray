@@ -1,5 +1,10 @@
 # Patch List
 
+# 04-10-2022
+- Ipv6 Enabled (Doing this for multifunactional for next update"
+- Remove Unused code
+- Force ipv4-only for detec registred ip
+- Known bugs? same as before (Didnt fixed official core has problem)
 # 19-09-2022
 - Core Updated to (1.6.0)
 - All Depedencies Updated
