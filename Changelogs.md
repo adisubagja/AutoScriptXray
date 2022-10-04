@@ -1,10 +1,11 @@
 # Patch List
 
 # 04-10-2022
-- Ipv6 Enabled (Doing this for multifunactional for next update"
+- Ipv6 Enabled (Doing this for multifunactional for next update)
 - Remove Unused code
 - Force ipv4-only for detec registred ip
 - Known bugs? same as before (Didnt fixed official core has problem)
+- Knowning now (This is not supported on NAT VPS now ! Im going announcement for the next support)
 # 19-09-2022
 - Core Updated to (1.6.0)
 - All Depedencies Updated
