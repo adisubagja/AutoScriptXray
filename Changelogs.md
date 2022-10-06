@@ -1,5 +1,10 @@
 # Patch List
 
+# 06-10-2022
+- Fix route
+- NAT VPS Finally Supported Now (Need Forwarding By Self HHTP 80 & HTTPS 443 to your domain)
+- Add Traffic Monitoring ( https://yourdomain.com/traffic )
+- Mini Patching
 # 04-10-2022
 - Ipv6 Enabled (Doing this for multifunactional for next update)
 - Remove Unused code
