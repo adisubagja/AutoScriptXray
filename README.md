@@ -2,9 +2,9 @@
 Installasi Netz-Xray Multi Port 443 & 80
 
 # OS Didukung & Spek Minimal
-- Debian 9
+- Debian 9 (**Ditinggalkan**)
 - Debian 10 (**Rekomendasi**)
-- Ubuntu 18
+- Ubuntu 18 LTS
 - Ubuntu 20
 - RAM Minimal 1GB (Max Akun 8-12)
 - CPU Minimal 1 (2 Lebih bagus/Lebih cepet installnya)
@@ -19,6 +19,8 @@ Installasi Netz-Xray Multi Port 443 & 80
 - TROJAN/TROJAN GO GRPC 443
 - SHADOWSOCKS WS 443
 - SHADOWSOCKS GRPC 443
+- SHADOWSOCKS 2022 WS 443
+- SHADOWSOCKS 2022 GRPC 443
 
 # Cara Daftarin IPnya
 1. Harus punya akun github
