@@ -8,6 +8,8 @@
 - Grade A+
 - Sing-Box Client (Disable uTLS / Enabled but using fingerprint Android)
 - Remove older unused code
+- Add 10 Minutes cut logger
+- Fixed Memory Leak (Ga yakin)
 - Etc
 - *Keep using core 1.6.0 If downgrade byself another funaction not working Still waitting new core update*
 # 06-10-2022
