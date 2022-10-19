@@ -1,5 +1,22 @@
 # Patch List
 
+# 11-10-2022
+- Add ShadowSocks 2022 ( WS & GRPC )
+- IPv6 Tweaking
+- Update Chipersuite
+- Now Cert Using *LE* And Using SHA256 RSA 2048
+- Grade A+
+- Sing-Box Client (Disable uTLS / Enabled but using fingerprint Android)
+- Remove older unused code
+- Add 10 Minutes cut logger
+- Fixed Memory Leak (Ga yakin)
+- Etc
+- *Keep using core 1.6.0 If downgrade byself another funaction not working Still waitting new core update*
+# 06-10-2022
+- Fix route
+- NAT VPS Finally Supported Now (Need Forwarding By Self HHTP 80 & HTTPS 443 to your domain)
+- Add Traffic Monitoring ( https://yourdomain.com/traffic )
+- Mini Patching
 # 04-10-2022
 - Ipv6 Enabled (Doing this for multifunactional for next update)
 - Remove Unused code
