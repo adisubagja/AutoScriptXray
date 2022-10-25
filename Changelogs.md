@@ -1,5 +1,14 @@
 # Patch List
 
+# 25-10-2022
+- Core update 1.6.1
+- Minor fix (Too many arguments)
+- uTLS Added Client Side (Default *chrome*)
+- XanMod Kernel (Main Branch) Install by Self
+- Using Geodata from @Malikshi
+- Optimize Trojan WS & GRPC (Dont use restore setting if you wanna using new settings)
+- Now Path /netztrojancf only bypass google & playstore & youtube (Dont use restore setting if you wanna using new settings)
+- * Update if you want & Don't update if you stressing out using this script *
 # 11-10-2022
 - Add ShadowSocks 2022 ( WS & GRPC )
 - IPv6 Tweaking
@@ -16,7 +25,7 @@
 - Fix route
 - NAT VPS Finally Supported Now (Need Forwarding By Self HHTP 80 & HTTPS 443 to your domain)
 - Add Traffic Monitoring ( https://yourdomain.com/traffic )
-- Mini Patching
+- Mini Patchinjso
 # 04-10-2022
 - Ipv6 Enabled (Doing this for multifunactional for next update)
 - Remove Unused code
