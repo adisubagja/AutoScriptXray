@@ -30,3 +30,13 @@ rm -rf setup.sh && rm -rf adi.sh && apt update && apt upgrade && apt install wge
 3. Jika kalian ingin menginstall ini secara paksa hubungi admin ! screenshoot donasi kalian kirim IPnya kudaftarin langsung (1 IP)
 4. Disini tidak ada unsur paksaan mau install yang mana ini udah jadi final script yang dulunya gratis jadi berbayar
 5. Terimakasih atas pengertiannya !
+
+# Donasi / Support
+- Qris
+![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
+- Dana/Ovo/Gopay
+  - 082113695382
+
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/adisubagja/AutoScriptXray.svg)](https://starchart.cc/adisubagja/AutoScriptXray)
