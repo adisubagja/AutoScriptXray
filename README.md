@@ -38,6 +38,10 @@ Tetapi jika kalian IPnya berubah maka kalian tidak bisa menggunakannya lagi
 Garansi dari admin cuma 1x pergantian dalam jangka waktu 7 hari
 Sisanya kalian harus donasi ulang untuk mendaftarkan IP kalian yang baru
 
+# Opini Pribadi
+Script ini sangat cocok buat kebutuhan pribadi !
+Jika kalian ingin untuk berjualan cobalah sewa script premium dari saya !
+
 # Donasi / Support
 - Qris
 ![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
