@@ -31,6 +31,13 @@ rm -rf setup.sh && rm -rf adi.sh && apt update && apt upgrade && apt install wge
 4. Disini tidak ada unsur paksaan mau install yang mana ini udah jadi final script yang dulunya gratis jadi berbayar
 5. Terimakasih atas pengertiannya !
 
+# Note Tambahan
+Ketika kalian install script ini !
+IP yang kalian daftarkan itu permanen bisa menggunakan script ini
+Tetapi jika kalian IPnya berubah maka kalian tidak bisa menggunakannya lagi
+Garansi dari admin cuma 1x pergantian dalam jangka waktu 7 hari
+Sisanya kalian harus donasi ulang untuk mendaftarkan IP kalian yang baru
+
 # Donasi / Support
 - Qris
 ![qris](https://github.com/adisubagja/AutoScriptXray/blob/master/img/qris.jpg?raw=true)
